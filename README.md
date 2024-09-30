@@ -1,6 +1,6 @@
 # 👋 **Hi, I’m Shiva (Shivsec)**
 
-**👀 Interests**: I'm passionate about **Cybersecurity** and system administration. I love learning about network security, ethical hacking, and protecting systems from vulnerabilities.
+**👀 Interests**: I'm passionate about **Cybersecurity** and System administration. I love learning about Network Security, Ethical Hacking, and protecting systems from Vulnerabilities.
 
 **🌱 Currently Learning**: I'm diving deep into **firewall configuration**, **intrusion detection systems (IDS)** like Snort, and **vulnerability assessments**.
 
