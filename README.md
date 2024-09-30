@@ -1,4 +1,4 @@
-# 👋 **Hi, I’m Shivam (Shivsec)**
+# 👋 **Hi, I’m Shiva (Shivsec)**
 
 **👀 Interests**: I'm passionate about **Cybersecurity** and system administration. I love learning about network security, ethical hacking, and protecting systems from vulnerabilities.
 
